@@ -1,0 +1,20 @@
+img#logo-index {
+    height: 90px;
+    width: 155px;
+}
+
+img#logo-second {
+    height: 85px;
+    width: 145px;
+}
+
+img#icone_usu {
+    height: 40px;
+    width: 40px;
+}
+
+@media (min-width: 992px){
+    button#but_nav1{
+        visibility: hidden;
+    } 
+}
